@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @kruschewskyjoao
-- 🌱 I’m currently learning ...
+Sou o João Luiz Kruschewsky
+Para contato: joaokruschewsky@gmail.com
+Linkedin: https://www.linkedin.com/in/jjoaokruschewsky/
 
-<!---
-kruschewskyjoao/kruschewskyjoao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+Skills: 
+-Html
+-Css
+-JavaScript
+-React.js
+-Redux
+-Mysql
